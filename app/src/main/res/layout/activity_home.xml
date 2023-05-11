@@ -16,10 +16,10 @@
         android:layout_marginTop="12dp"
         android:layout_marginEnd="12dp"
         android:layout_marginBottom="12dp"
-        android:text="Cinema World"
+        android:fontFamily="cursive"
+        android:text="Cinema Palace"
         android:textColor="@color/darkRed"
-        android:fontFamily="monospace"
-        android:textSize="34sp"
+        android:textSize="40sp"
         android:textStyle="bold" />
 
     <GridLayout
